@@ -4,7 +4,7 @@
   "description": "Examples of using HMAC with JS",
   "main": "index.js",
   "dependencies": {
-    "ansi-regex": "^5.0.1",
+    "ansi-regex": "^6.0.0",
     "crypto-js": "^4.1.1",
     "minimist": "^1.2.6",
     "node-fetch": "^2.6.7"
